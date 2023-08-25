@@ -34,7 +34,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-tpfk7-jaws-journal-490ug33bbd.us2.codeanyapp.com',
-                 'jaws-journal.herokuapp.com', 'localhost']
+                 'jaws-journal.herokuapp.com', 'localhost',
+                 'jaws-journal-8fc5aa9ebe89.herokuapp.com']
 
 
 # Application definition
