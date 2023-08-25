@@ -1,1 +1,1 @@
-web: gunicorn jaws_journal.wsgi
+web: gunicorn Jaws_Journal.wsgi
